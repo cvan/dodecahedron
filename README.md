@@ -24,15 +24,13 @@ open http://localhost:8080
 :iphone: Point your device's browser to your local IP, assuming you are on the same LAN. (See console output for IP address)
 
 ## A-Frame
-[A-Frame Project Page](https://aframe.io/)
 
-[A-Frame Docs](https://aframe.io/docs/guide/)
-
-[Awesome A-Frame](https://github.com/aframevr/awesome-aframe)
-
-[A-Frame source](https://github.com/aframevr/aframe)
-
-[aframe-react](https://github.com/ngokevin/aframe-react)
+* [A-Frame Project Page](https://aframe.io/)
+* [A-Frame Docs](https://aframe.io/docs/guide/)
+* [Awesome A-Frame](https://github.com/aframevr/awesome-aframe)
+* [A-Frame source](https://github.com/aframevr/aframe)
+* [aframe-react](https://github.com/ngokevin/aframe-react)
+* [Made with A-Frame](https://aframevr.tumblr.com/)
 
 
 ### Registering Third-party A-Frame components
